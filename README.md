@@ -3,6 +3,9 @@
 Welcome! This repository contains Python code, datasets, and resources for analyzing app user behavior and guiding customers towards subscriptions using machine learning.
 
 ---
+<p align="center">
+  <img src="https://097cb0ca.delivery.rocketcdn.me/wp-content/uploads/6322f6ffb5568214b74fc27c_DTC-Subscription-Models-GaryFox.png" width="800" height="500" alt="DTC Subscription Models by Gary Fox">
+</p>
 
 ## 🌟 Features
 
